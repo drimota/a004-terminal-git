@@ -1,0 +1,4 @@
+# Minha Bio
+
+**Driely Mota**, 26 anos, Recifense ex patriada morando no Estados Unidos desde Dezembro de 2019, sempre amei artes e estudei artes visuais mas não antes de fazer inumeros cursos de ilustração e pintura, hoje, nem desenho mais, acredito ser uma paixão perdida que ando pensando em retomar cada vez que vou mais a fundo no curso de full stack da _labenu_.
+**Amo** gatos e cobras, tenho duas gatas morando no Brasil com minha mãe e tô começando a convencer minha noiva a a termos uma cobra de estimação. Filmes de terror são meu go to pra tudo, minhas tatuagens estão aqui de prova. Pretendo focar na area de UX/UI design quando me formar e seguir essa carreira mundo a fora (~~Brasil só pra visitar.~~)
